@@ -1,0 +1,178 @@
+
+
+
+/*css*/
+
+
+
+body{
+   
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.navbar-brand{
+    text-transform: uppercase;
+}
+a{
+text-transform: uppercase;
+}
+.card i{
+    font-size: 80px;
+}
+
+li{
+  
+    display: inline;
+}
+.pimg1{
+    /* width: 810px;
+    height: 269px; */
+}
+.onelinkimg{
+    width: 200px;
+}
+
+.playstorelink{
+   
+     width: 200px;
+     height: 80px;
+}
+.icons{
+    width: 120px;
+}
+.bulb{
+    width: 120px;
+}
+
+.cicons{
+    width: 50px;
+}
+.about-img{
+    width: 60%;
+}
+
+
+
+
+
+
+
+/*=== responcive css===*/
+
+
+@media only screen and (max-width: 576px){
+
+    img{
+        width: 50%;
+        margin-bottom: 30px;
+    }
+    .about-img{
+      /* display: none; */
+
+    }
+    .contact{
+        margin: 10px;
+        padding: 15px;
+
+    }
+ .ro{
+     height: 500px;
+ }
+ .fot{
+     padding: 2px;
+ }
+
+ .pc{
+     padding: 15px;
+ }
+ .pt{
+     margin-top: 15px;
+ }
+
+
+    
+}
+
+/* media query for sm device*/
+@media only screen and (min-width: 577px) and  (max-width: 767px){
+
+    img{
+        width: 60%;
+        margin-bottom: 20px;
+    }
+}
+
+/* media query for md device*/
+@media only screen and (min-width: 768px) and (max-width: 991px){ 
+    img{
+        width: 50%;
+        margin-bottom: 20px;
+    }
+    
+    
+ 
+  
+
+}
+
+/* media query for lg device*/
+@media only screen and (min-width: 992px) and (max-width: 1199px){ 
+   
+    
+    
+    /* .aicon{
+        width: 90px;
+  } */
+
+  
+
+}
+
+@media only screen and (max-width: 767px){
+    .navbar-nav{
+        text-align: center;
+    }
+   
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
